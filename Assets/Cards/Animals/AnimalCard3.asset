@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb96ee7c9c946a45b4680b34c5d164f, type: 3}
+  m_Name: AnimalCard3
+  m_EditorClassIdentifier: 
+  decision: "Una manada proxima lucha por el refugio, moverse ahora pondria en peligro
+    a los peque\xF1os."
+  textOption1: "Bajar a las faldas de la monta\xF1a."
+  textOption2: Enfrentarse a las demas cabras.
+  message1: ChangeTemperature
+  amount1: -5
+  message2: ChangeAnimals
+  amount2: 5
+  message3: ChangeAnimals
+  amount3: -5
+  message4: ChangeTemperature
+  amount4: 5
